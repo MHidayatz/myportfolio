@@ -22,6 +22,11 @@ Created a machine learning model that predicts loan defaulters with an accuracy 
 Architected a comprehensive database to securely store and manage Olympic data, enabling efficient querying and processing. I also crafted an interactive report using PowerBI, which encapsulates the key insights derived from the data.
 - Skills Used: SQL, Data Visualization
 
+### Visualizing London Bike sharing dataset through Tableau
+Extract dataset with kaggle API and process it throgh pandas.
+Visualize the data through tableau to gain insights on the dataset
+- Skills Used: Pandas, Kaggle, Data Visualization
+
 
 ## Contact Me
 Feel free to reach out to me at mhidayatz86@gmail.com for any opportunities or collaborations.
